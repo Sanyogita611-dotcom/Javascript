@@ -35,7 +35,7 @@ pool.connect(function (err) {
     if (err) {
         return console.error(err.message);
     }
-    console.log('Connected to database.');
+    console.log('Connected to DB.');
   
 })
  
